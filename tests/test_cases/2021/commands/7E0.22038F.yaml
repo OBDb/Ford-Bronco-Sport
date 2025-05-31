@@ -3,12 +3,12 @@ test_cases:
 - response: 7E80562038F0C46
   expected_values:
     FORD_ECT: 49.09375
-- response: 7E80562038F12FC
+- response: 7E80562038F0FFD
   expected_values:
-    FORD_ECT: 75.9375
+    FORD_ECT: 63.95312
 - response: 7E80562038F1500
   expected_values:
     FORD_ECT: 84
-- response: 7E80562038F1734
+- response: 7E80562038F1806
   expected_values:
-    FORD_ECT: 92.8125
+    FORD_ECT: 96.09375

@@ -3,30 +3,12 @@ test_cases:
 - response: 7E80562035F0245
   expected_values:
     FORD_RO2_V: 0.56738
-- response: 7E80562035F0287
+- response: 7E80562035F02CE
   expected_values:
-    FORD_RO2_V: 0.63184
-- response: 7E80562035F0290
+    FORD_RO2_V: 0.70117
+- response: 7E80562035F032B
   expected_values:
-    FORD_RO2_V: 0.64062
-- response: 7E80562035F0292
-  expected_values:
-    FORD_RO2_V: 0.64258
-- response: 7E80562035F02A1
-  expected_values:
-    FORD_RO2_V: 0.65723
-- response: 7E80562035F02AA
-  expected_values:
-    FORD_RO2_V: 0.66602
-- response: 7E80562035F02AD
-  expected_values:
-    FORD_RO2_V: 0.66895
-- response: 7E80562035F02C9
-  expected_values:
-    FORD_RO2_V: 0.69629
-- response: 7E80562035F048A
-  expected_values:
-    FORD_RO2_V: 1
+    FORD_RO2_V: 0.79199
 - response: 7E80562035F0670
   expected_values:
     FORD_RO2_V: 1
