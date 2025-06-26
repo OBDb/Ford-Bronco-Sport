@@ -1,11 +1,14 @@
 command_id: 7E0.220324
 test_cases:
-- response: 7E80562032400BD
-  expected_values:
-    FORD_HPFP_V: 0.92375
-- response: 7E80562032401FE
-  expected_values:
+- expected_values:
+    FORD_HPFP_V: 0.54252
+  response: 7E805620324006F
+- expected_values:
     FORD_HPFP_V: 2.49267
-- response: '7E8056203240206'
-  expected_values:
-    FORD_HPFP_V: 2.53177
+  response: 7E80562032401FE
+- expected_values:
+    FORD_HPFP_V: 2.50244
+  response: '7E8056203240200'
+- expected_values:
+    FORD_HPFP_V: 3.83187
+  response: '7E8056203240310'
