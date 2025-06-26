@@ -1,14 +1,14 @@
 command_id: 7E0.22038F
 test_cases:
-- response: 7E80562038F0C46
-  expected_values:
-    FORD_ECT: 49.09375
-- response: 7E80562038F0FFD
-  expected_values:
-    FORD_ECT: 63.95312
-- response: 7E80562038F1500
-  expected_values:
-    FORD_ECT: 84
-- response: 7E80562038F1806
-  expected_values:
+- expected_values:
+    FORD_ECT: 24.6875
+  response: 7E80562038F062C
+- expected_values:
+    FORD_ECT: 64
+  response: 7E80562038F1000
+- expected_values:
+    FORD_ECT: 91.98438
+  response: 7E80562038F16FF
+- expected_values:
     FORD_ECT: 96.09375
+  response: 7E80562038F1806

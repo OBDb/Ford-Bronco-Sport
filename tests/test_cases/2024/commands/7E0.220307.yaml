@@ -1,11 +1,11 @@
 command_id: 7E0.220307
 test_cases:
-- response: 7E80562030714DB
-  expected_values:
+- expected_values:
     FORD_LPFP_DUTY: 16.29333
-- response: 7E80562030714FE
-  expected_values:
+  response: 7E80562030714DB
+- expected_values:
     FORD_LPFP_DUTY: 16.40015
-- response: '7E8056203071919'
-  expected_values:
+  response: 7E80562030714FE
+- expected_values:
     FORD_LPFP_DUTY: 19.60754
+  response: '7E8056203071919'
