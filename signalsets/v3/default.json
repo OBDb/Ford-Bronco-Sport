@@ -13,11 +13,11 @@
   ]},
 { "hdr": "726", "rax": "72E", "cmd": {"22": "2815"}, "freq": 5, "dbgfilter": { "years": [2022], "from": 2026 },
   "signals": [
-    {"id": "BRONCOSPORT_TP_RRO", "path": "Tires", "fmt": { "len": 16, "max": 3276, "div": 20, "unit": "psi" }, "name": "Rear right outer tire pressure", "suggestedMetric": "rearRightTirePressure"}
+    {"id": "BRONCOSPORT_TP_RR", "path": "Tires", "fmt": { "len": 16, "max": 3276, "div": 20, "unit": "psi" }, "name": "Rear right tire pressure", "suggestedMetric": "rearRightTirePressure"}
   ]},
 { "hdr": "726", "rax": "72E", "cmd": {"22": "2816"}, "freq": 5, "dbgfilter": { "years": [2022], "from": 2026 },
   "signals": [
-    {"id": "BRONCOSPORT_TP_RLO", "path": "Tires", "fmt": { "len": 16, "max": 3276, "div": 20, "unit": "psi" }, "name": "Rear left outer tire pressure", "suggestedMetric": "rearLeftTirePressure"}
+    {"id": "BRONCOSPORT_TP_RL", "path": "Tires", "fmt": { "len": 16, "max": 3276, "div": 20, "unit": "psi" }, "name": "Rear left tire pressure", "suggestedMetric": "rearLeftTirePressure"}
   ]},
 { "hdr": "726", "rax": "72E", "cmd": {"22": "2817"}, "freq": 5, "dbgfilter": { "years": [2022], "from": 2026 },
   "signals": [
