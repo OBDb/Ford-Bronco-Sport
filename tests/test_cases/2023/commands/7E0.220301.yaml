@@ -1,0 +1,29 @@
+command_id: 7E0.220301
+test_cases:
+- expected_values:
+    BRONCOSPORT_MAP_V: 0.51758
+  response: '7E8056203010212'
+- expected_values:
+    BRONCOSPORT_MAP_V: 0.51855
+  response: '7E8056203010213'
+- expected_values:
+    BRONCOSPORT_MAP_V: 0.52344
+  response: '7E8056203010218'
+- expected_values:
+    BRONCOSPORT_MAP_V: 0.53418
+  response: '7E8056203010223'
+- expected_values:
+    BRONCOSPORT_MAP_V: 0.54004
+  response: '7E8056203010229'
+- expected_values:
+    BRONCOSPORT_MAP_V: 0.54492
+  response: 7E805620301022E
+- expected_values:
+    BRONCOSPORT_MAP_V: 0.58301
+  response: '7E8056203010255'
+- expected_values:
+    BRONCOSPORT_MAP_V: 0.60254
+  response: '7E8056203010269'
+- expected_values:
+    BRONCOSPORT_MAP_V: 0.62988
+  response: '7E8056203010285'

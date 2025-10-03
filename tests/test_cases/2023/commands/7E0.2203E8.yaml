@@ -1,0 +1,5 @@
+command_id: 7E0.2203E8
+test_cases:
+- expected_values:
+    BRONCOSPORT_OAR: 0.39001
+  response: 7E8056203E818F6
