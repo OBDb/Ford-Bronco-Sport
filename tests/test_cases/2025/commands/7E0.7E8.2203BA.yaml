@@ -1,0 +1,11 @@
+command_id: 7E0.7E8.2203BA
+test_cases:
+- expected_values:
+    BRONCOSPORT_AAT_V: 2.97654
+  response: '7E8 05 62 03 BA 02 61 '
+- expected_values:
+    BRONCOSPORT_AAT_V: 2.40469
+  response: 7E8056203BA01EC
+- expected_values:
+    BRONCOSPORT_AAT_V: 2.7175
+  response: 7E8056203BA022C
