@@ -1,5 +1,5 @@
 { "commands": [
-{ "hdr": "720", "rax": "728", "cmd": {"22": "DD01"}, "freq": 30, "dbgfilter": { "years": [2022], "from": 2026 },
+{ "hdr": "720", "rax": "728", "cmd": {"22": "DD01"}, "freq": 30, "dbgfilter": { "to": 2024, "from": 2026 },
   "signals": [
     {"id": "BRONCOSPORT_ODO_TRIP", "path": "Trips", "fmt": { "len": 24, "max": 1677721, "div": 10, "unit": "kilometers" }, "name": "Trip distance"}
   ]},
@@ -27,11 +27,11 @@
   "signals": [
     {"id": "BRONCOSPORT_TP_RLI", "path": "Tires", "fmt": { "len": 16, "max": 3276, "div": 20, "unit": "psi" }, "name": "Rear left inner tire pressure"}
   ]},
-{ "hdr": "760", "rax": "768", "cmd": {"22": "2B00"}, "freq": 3, "dbgfilter": { "years": [2022], "from": 2026 },
+{ "hdr": "760", "rax": "768", "cmd": {"22": "2B00"}, "freq": 3, "dbgfilter": { "to": 2024, "from": 2026 },
   "signals": [
     {"id": "BRONCOSPORT_PARKING_BRAKE", "path": "Control", "fmt": { "len": 1, "max": 1, "unit": "offon" }, "name": "Parking brake state"}
   ]},
-{ "hdr": "764", "rax": "76C", "cmd": {"22": "A224"}, "freq": 0.25, "dbgfilter": { "years": [2022], "from": 2026 },
+{ "hdr": "764", "rax": "76C", "cmd": {"22": "A224"}, "freq": 0.25, "dbgfilter": { "to": 2024, "from": 2026 },
   "signals": [
     {"id": "BRONCOSPORT_CC_TGT_VSS", "path": "Cruise control", "fmt": { "len": 16, "max": 736, "min": -736, "mul": 3.6, "div": 10, "sign": true, "unit": "kilometersPerHour" }, "name": "Target vehicle speed", "description": "The speed of the vehicle ahead of you."}
   ]},
