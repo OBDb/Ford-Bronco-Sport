@@ -1,0 +1,11 @@
+command_id: 7E0.7E8.2203DC
+test_cases:
+- expected_values:
+    BRONCOSPORT_HPFP_DES: 34.80906
+  response: 7E8056203DC0018
+- expected_values:
+    BRONCOSPORT_HPFP_DES: 3350.37179
+  response: 7E8056203DC0906
+- expected_values:
+    BRONCOSPORT_HPFP_DES: 3500
+  response: 7E8056203DC09C4
