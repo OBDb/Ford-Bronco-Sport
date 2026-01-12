@@ -5,7 +5,7 @@ test_cases:
   response: '7E8056203180000'
 - expected_values:
     BRONCOSPORT_VCT_INT_ACT: 0
-  response: 7E805620318FEF6
+  response: 7E805620318FF01
 - expected_values:
     BRONCOSPORT_VCT_INT_ACT: 0
-  response: 7E805620318FF01
+  response: 7E805620318FFFF

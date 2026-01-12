@@ -3,3 +3,12 @@ test_cases:
 - expected_values:
     BRONCOSPORT_ETC_TRIM_LEARNED: 0.16016
   response: '7E8056203380052'
+- expected_values:
+    BRONCOSPORT_ETC_TRIM_LEARNED: 0.17578
+  response: 7E805620338005A
+- expected_values:
+    BRONCOSPORT_ETC_TRIM_LEARNED: 0.19531
+  response: '7E8056203380064'
+- expected_values:
+    BRONCOSPORT_ETC_TRIM_LEARNED: 0.20312
+  response: '7E8056203380068'
