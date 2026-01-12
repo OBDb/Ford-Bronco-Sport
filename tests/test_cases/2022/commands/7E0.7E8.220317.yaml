@@ -1,0 +1,11 @@
+command_id: 7E0.7E8.220317
+test_cases:
+- expected_values:
+    BRONCOSPORT_VCT_EXH_DUTY: 0
+  response: '7E8056203170000'
+- expected_values:
+    BRONCOSPORT_VCT_EXH_DUTY: 32.79724
+  response: 7E80562031729FB
+- expected_values:
+    BRONCOSPORT_VCT_EXH_DUTY: 41.48865
+  response: 7E805620317351B
