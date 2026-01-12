@@ -4,5 +4,5 @@ test_cases:
     BRONCOSPORT_TP_RL: 32.8
   response: '72E056228160290'
 - expected_values:
-    BRONCOSPORT_TP_RL: 35.05
-  response: 72E0562281602BD
+    BRONCOSPORT_TP_RL: 36.3
+  response: 72E0562281602D6

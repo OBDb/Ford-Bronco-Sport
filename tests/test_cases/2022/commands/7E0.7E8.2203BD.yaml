@@ -4,8 +4,8 @@ test_cases:
     BRONCOSPORT_CL_LC: 0
   response: 7E8056203BD0000
 - expected_values:
-    BRONCOSPORT_CL_LC: 0.02588
-  response: 7E8056203BD00D4
+    BRONCOSPORT_CL_LC: 0.03076
+  response: 7E8056203BD00FC
 - expected_values:
     BRONCOSPORT_CL_LC: -0.01672
   response: 7E8056203BDFF77
