@@ -1,8 +1,8 @@
 command_id: 726.72E.222814
 test_cases:
 - expected_values:
-    BRONCOSPORT_TP_FR: 31.15
-  response: 72E05622814026F
+    BRONCOSPORT_TP_FR: 30.15
+  response: 72E05622814025B
 - expected_values:
     BRONCOSPORT_TP_FR: 37.55
   response: 72E0562281402EF
