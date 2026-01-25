@@ -1,3 +1,7 @@
+references:
+  - "https://en.wikipedia.org/wiki/Ford_Bronco"
+  - "https://en.wikipedia.org/wiki/Ford_Escape"
+
 generations:
   - name: "First Generation"
     start_year: 2021
