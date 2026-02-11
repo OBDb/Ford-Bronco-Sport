@@ -4,5 +4,5 @@ test_cases:
     BRONCOSPORT_FLI: 5.09804
   response: 7E80462F42F0D
 - expected_values:
-    BRONCOSPORT_FLI: 99.60784
-  response: 7E80462F42FFE
+    BRONCOSPORT_FLI: 100
+  response: 7E80462F42FFF
