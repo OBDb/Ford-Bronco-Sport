@@ -1,6 +1,12 @@
 command_id: 7E0.7E8.22F42F
 test_cases:
 - expected_values:
+    BRONCOSPORT_FLI: 18.43137
+  response: '7E8 04 62 F4 2F 2F '
+- expected_values:
+    BRONCOSPORT_FLI: 25.4902
+  response: '7E8 04 62 F4 2F 41 '
+- expected_values:
     BRONCOSPORT_FLI: 0
   response: 7E80462F42F00
 - expected_values:
