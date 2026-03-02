@@ -1,8 +1,8 @@
 command_id: 7E0.7E8.2203CA
 test_cases:
 - expected_values:
-    BRONCOSPORT_MCT: 61
-  response: 7E8046203CA3D
+    BRONCOSPORT_MCT: 47
+  response: 7E8046203CA2F
 - expected_values:
     BRONCOSPORT_MCT: 110
   response: 7E8046203CA6E
