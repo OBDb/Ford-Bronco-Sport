@@ -92,3 +92,5 @@ unsupported_commands_by_ecu:
   - 760.768.222B00:BRONCOSPORT_PARKING_BRAKE
   "764":
   - 764.76C.22A224:BRONCOSPORT_CC_TGT_VSS
+  "7DF":
+  - 7DF.0131
