@@ -4,17 +4,14 @@ test_cases:
     BRONCOSPORT_ODO: 7566
   response: 7E80662DD01001D8E
 - expected_values:
-    BRONCOSPORT_ODO: 7567
-  response: 7E80662DD01001D8F
-- expected_values:
-    BRONCOSPORT_ODO: 7571
-  response: 7E80662DD01001D93
-- expected_values:
-    BRONCOSPORT_ODO: 9963
-  response: 7E80662DD010026EB
-- expected_values:
     BRONCOSPORT_ODO: 10113
   response: 7E80662DD01002781
 - expected_values:
     BRONCOSPORT_ODO: 70115
   response: 7E80662DD010111E3
+- expected_values:
+    BRONCOSPORT_ODO: 70143
+  response: 7E80662DD010111FF
+- expected_values:
+    BRONCOSPORT_ODO: 70144
+  response: 7E80662DD01011200
