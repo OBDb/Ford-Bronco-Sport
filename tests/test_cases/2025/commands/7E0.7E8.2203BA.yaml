@@ -4,8 +4,8 @@ test_cases:
     BRONCOSPORT_AAT_V: 2.97654
   response: '7E8 05 62 03 BA 02 61 '
 - expected_values:
-    BRONCOSPORT_AAT_V: 2.29717
-  response: 7E8056203BA01D6
+    BRONCOSPORT_AAT_V: 1.96481
+  response: 7E8056203BA0192
 - expected_values:
     BRONCOSPORT_AAT_V: 2.47801
   response: 7E8056203BA01FB
