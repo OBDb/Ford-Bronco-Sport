@@ -1,0 +1,29 @@
+command_id: 7E0.7E8.2203BD
+test_cases:
+- expected_values:
+    BRONCOSPORT_CL_LC: 0.00293
+  response: 7E8056203BD0018
+- expected_values:
+    BRONCOSPORT_CL_LC: 0.00378
+  response: 7E8056203BD001F
+- expected_values:
+    BRONCOSPORT_CL_LC: 0.00391
+  response: 7E8056203BD0020
+- expected_values:
+    BRONCOSPORT_CL_LC: -0.0083
+  response: 7E8056203BDFFBC
+- expected_values:
+    BRONCOSPORT_CL_LC: -0.00671
+  response: 7E8056203BDFFC9
+- expected_values:
+    BRONCOSPORT_CL_LC: -0.00659
+  response: 7E8056203BDFFCA
+- expected_values:
+    BRONCOSPORT_CL_LC: -0.00574
+  response: 7E8056203BDFFD1
+- expected_values:
+    BRONCOSPORT_CL_LC: -0.00562
+  response: 7E8056203BDFFD2
+- expected_values:
+    BRONCOSPORT_CL_LC: -0.00354
+  response: 7E8056203BDFFE3

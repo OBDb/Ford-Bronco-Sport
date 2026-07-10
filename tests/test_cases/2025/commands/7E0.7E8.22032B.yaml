@@ -1,0 +1,11 @@
+command_id: 7E0.7E8.22032B
+test_cases:
+- expected_values:
+    BRONCOSPORT_ACC_POS: 0
+  response: '7E8 04 62 03 2B 00 '
+- expected_values:
+    BRONCOSPORT_ACC_POS: 0
+  response: 7E80462032B00
+- expected_values:
+    BRONCOSPORT_ACC_POS: 23
+  response: 7E80462032B2E
