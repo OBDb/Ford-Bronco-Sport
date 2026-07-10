@@ -27,3 +27,6 @@ test_cases:
 - expected_values:
     BRONCOSPORT_OAR: 1
   response: 7E8056203E8EDA0
+- expected_values:
+    BRONCOSPORT_OAR: 1
+  response: 7E8056203E8EEEA
