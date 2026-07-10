@@ -7,8 +7,8 @@ test_cases:
     BRONCOSPORT_HPFP_V: 2.48778
   response: 7E80562032401FD
 - expected_values:
-    BRONCOSPORT_HPFP_V: 2.58065
-  response: '7E8056203240210'
+    BRONCOSPORT_HPFP_V: 2.56109
+  response: 7E805620324020C
 - expected_values:
     BRONCOSPORT_HPFP_V: 3.94428
   response: '7E8056203240327'

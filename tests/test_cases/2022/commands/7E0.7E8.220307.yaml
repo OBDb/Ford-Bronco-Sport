@@ -4,6 +4,9 @@ test_cases:
     BRONCOSPORT_LPFP_DUTY: 15.17334
   response: 7E805620307136C
 - expected_values:
+    BRONCOSPORT_LPFP_DUTY: 27.34375
+  response: '7E8056203072300'
+- expected_values:
     BRONCOSPORT_LPFP_DUTY: 28.89709
   response: 7E80562030724FD
 - expected_values:
