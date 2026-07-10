@@ -1,0 +1,11 @@
+command_id: 7E0.7E8.22033C
+test_cases:
+- expected_values:
+    BRONCOSPORT_TIP_V: 1.46973
+  response: 7E80562033C012D
+- expected_values:
+    BRONCOSPORT_TIP_V: 2.08984
+  response: 7E80562033C01AC
+- expected_values:
+    BRONCOSPORT_TIP_V: 2.59766
+  response: 7E80562033C0214

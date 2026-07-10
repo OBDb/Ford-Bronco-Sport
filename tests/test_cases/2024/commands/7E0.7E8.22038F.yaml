@@ -1,0 +1,14 @@
+command_id: 7E0.7E8.22038F
+test_cases:
+- expected_values:
+    BRONCOSPORT_ECT: 42.48438
+  response: 7E80562038F0A9F
+- expected_values:
+    BRONCOSPORT_ECT: 60
+  response: 7E80562038F0F00
+- expected_values:
+    BRONCOSPORT_ECT: 95.95312
+  response: 7E80562038F17FD
+- expected_values:
+    BRONCOSPORT_ECT: 100.09375
+  response: 7E80562038F1906
