@@ -1,6 +1,9 @@
 command_id: 7E0.7E8.220338
 test_cases:
 - expected_values:
+    BRONCOSPORT_ETC_TRIM_LEARNED: 0.00195
+  response: '7E8056203380001'
+- expected_values:
     BRONCOSPORT_ETC_TRIM_LEARNED: 0.17969
   response: 7E805620338005C
 - expected_values:

@@ -7,8 +7,8 @@ test_cases:
     BRONCOSPORT_ECT: 60
   response: 7E80562038F0F00
 - expected_values:
-    BRONCOSPORT_ECT: 95.95312
-  response: 7E80562038F17FD
+    BRONCOSPORT_ECT: 95.96875
+  response: 7E80562038F17FE
 - expected_values:
-    BRONCOSPORT_ECT: 100.09375
-  response: 7E80562038F1906
+    BRONCOSPORT_ECT: 100.04688
+  response: 7E80562038F1903

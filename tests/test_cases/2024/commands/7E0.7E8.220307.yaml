@@ -1,8 +1,8 @@
 command_id: 7E0.7E8.220307
 test_cases:
 - expected_values:
-    BRONCOSPORT_LPFP_DUTY: 16.29333
-  response: 7E80562030714DB
+    BRONCOSPORT_LPFP_DUTY: 15.68298
+  response: '7E8056203071413'
 - expected_values:
     BRONCOSPORT_LPFP_DUTY: 16.40015
   response: 7E80562030714FE
