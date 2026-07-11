@@ -4,8 +4,8 @@ test_cases:
     BRONCOSPORT_VCT_EXH_DUTY: 0
   response: '7E8056203170000'
 - expected_values:
-    BRONCOSPORT_VCT_EXH_DUTY: 49.21265
-  response: 7E8056203173EFE
+    BRONCOSPORT_VCT_EXH_DUTY: 45.3064
+  response: 7E80562031739FE
 - expected_values:
     BRONCOSPORT_VCT_EXH_DUTY: 58.00781
   response: 7E8056203174A40
