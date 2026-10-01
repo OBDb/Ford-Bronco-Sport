@@ -64,7 +64,7 @@
   ]},
 { "hdr": "7E0", "rax": "7E8", "cmd": {"22": "031A"}, "freq": 0.25, "dbgfilter": { "from": 2026 },
   "signals": [
-    {"id": "BRONCOSPORT_VCT_INT_ERR", "fmt": { "len": 16, "max": 50, "min": -50, "mul": 0.0625, "unit": "degrees" }, "name": "VCT intake camshaft error"}
+    {"id": "BRONCOSPORT_VCT_INT_ERR", "fmt": { "len": 16, "max": 50, "min": -50, "div": 16, "sign": true, "unit": "degrees" }, "name": "VCT intake camshaft error"}
   ]},
 { "hdr": "7E0", "rax": "7E8", "cmd": {"22": "031B"}, "freq": 0.25, "dbgfilter": { "from": 2026 },
   "signals": [
@@ -116,7 +116,7 @@
   ]},
 { "hdr": "7E0", "rax": "7E8", "cmd": {"22": "03BB"}, "freq": 0.25, "dbgfilter": { "from": 2026 },
   "signals": [
-    {"id": "BRONCOSPORT_VCT_EXH_DES", "fmt": { "len": 16, "max": 50, "mul": 0.0625, "unit": "degrees" }, "name": "VCT exhaust cam, desired"}
+    {"id": "BRONCOSPORT_VCT_EXH_DES", "fmt": { "len": 16, "max": 50, "div": 16, "sign": true, "unit": "degrees" }, "name": "VCT exhaust cam, desired"}
   ]},
 { "hdr": "7E0", "rax": "7E8", "cmd": {"22": "03BC"}, "freq": 0.25, "dbgfilter": { "from": 2026 },
   "signals": [
@@ -136,7 +136,7 @@
   ]},
 { "hdr": "7E0", "rax": "7E8", "cmd": {"22": "03E8"}, "freq": 0.25, "dbgfilter": { "from": 2026 },
   "signals": [
-    {"id": "BRONCOSPORT_OAR", "fmt": { "len": 16, "max": 1, "min": -1, "mul": 0.0000610352, "unit": "scalar" }, "name": "Octane adjust ratio"}
+    {"id": "BRONCOSPORT_OAR", "fmt": { "len": 16, "max": 1, "min": -1, "div": 16384, "sign": true, "unit": "scalar" }, "name": "Octane adjust ratio"}
   ]},
 { "hdr": "7E0", "rax": "7E8", "cmd": {"22": "1E12"}, "freq": 2, "dbgfilter": { "from": 2026 },
   "signals": [

@@ -1,17 +1,17 @@
 command_id: 7E0.7E8.2203E8
 test_cases:
 - expected_values:
-    BRONCOSPORT_OAR: 1
+    BRONCOSPORT_OAR: -0.47809
   response: 7E8056203E8E167
 - expected_values:
-    BRONCOSPORT_OAR: 1
+    BRONCOSPORT_OAR: -0.4281
   response: 7E8056203E8E49A
 - expected_values:
-    BRONCOSPORT_OAR: 1
+    BRONCOSPORT_OAR: -0.15302
   response: 7E8056203E8F635
 - expected_values:
-    BRONCOSPORT_OAR: 1
+    BRONCOSPORT_OAR: -0.11945
   response: 7E8056203E8F85B
 - expected_values:
-    BRONCOSPORT_OAR: 1
+    BRONCOSPORT_OAR: -0.09485
   response: 7E8056203E8F9EE
