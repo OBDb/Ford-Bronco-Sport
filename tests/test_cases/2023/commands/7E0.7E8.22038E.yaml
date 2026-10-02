@@ -1,26 +1,26 @@
 command_id: 7E0.7E8.22038E
 test_cases:
 - expected_values:
-    BRONCOSPORT_EVAP_V: 5
+    BRONCOSPORT_EVAP_V: 2.287
   response: 7E80562038E08EF
 - expected_values:
-    BRONCOSPORT_EVAP_V: 5
+    BRONCOSPORT_EVAP_V: 2.292
   response: 7E80562038E08F4
 - expected_values:
-    BRONCOSPORT_EVAP_V: 5
+    BRONCOSPORT_EVAP_V: 2.302
   response: 7E80562038E08FE
 - expected_values:
-    BRONCOSPORT_EVAP_V: 5
+    BRONCOSPORT_EVAP_V: 2.357
   response: 7E80562038E0935
 - expected_values:
-    BRONCOSPORT_EVAP_V: 5
+    BRONCOSPORT_EVAP_V: 2.437
   response: 7E80562038E0985
 - expected_values:
-    BRONCOSPORT_EVAP_V: 5
+    BRONCOSPORT_EVAP_V: 2.477
   response: 7E80562038E09AD
 - expected_values:
-    BRONCOSPORT_EVAP_V: 5
+    BRONCOSPORT_EVAP_V: 2.687
   response: 7E80562038E0A7F
 - expected_values:
-    BRONCOSPORT_EVAP_V: 5
+    BRONCOSPORT_EVAP_V: 2.692
   response: 7E80562038E0A84
