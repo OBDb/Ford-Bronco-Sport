@@ -1,0 +1,7 @@
+command_id: 726.72E.22280B
+test_cases:
+- expected_values:
+    BRONCOSPORT_TYRE_T: 39
+  response: |-
+    72E100C62280B60443A
+    72E212C027B4F462E00
