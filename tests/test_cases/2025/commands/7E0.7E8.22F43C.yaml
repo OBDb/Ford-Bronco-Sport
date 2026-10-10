@@ -1,0 +1,14 @@
+command_id: 7E0.7E8.22F43C
+test_cases:
+- expected_values:
+    BRONCOSPORT_CAT_TEMP: 534.2
+  response: 7E80562F43C166E
+- expected_values:
+    BRONCOSPORT_CAT_TEMP: 575.2
+  response: 7E80562F43C1808
+- expected_values:
+    BRONCOSPORT_CAT_TEMP: 625.2
+  response: 7E80562F43C19FC
+- expected_values:
+    BRONCOSPORT_CAT_TEMP: 764.8
+  response: 7E80562F43C1F70

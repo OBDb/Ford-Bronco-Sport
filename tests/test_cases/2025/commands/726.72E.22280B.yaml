@@ -1,7 +1,57 @@
 command_id: 726.72E.22280B
 test_cases:
 - expected_values:
+    BRONCOSPORT_TYRE_T: 32
+  response: |-
+    72E100C62280B60442F
+    72E2197027B48468700
+- expected_values:
+    BRONCOSPORT_TYRE_T: 37
+  response: |-
+    72E100C62280B60442F
+    72E2197028F4D469000
+- expected_values:
     BRONCOSPORT_TYRE_T: 39
   response: |-
+    72E100C62280B60442F
+    72E2197028F4F469200
+- expected_values:
+    BRONCOSPORT_TYRE_T: 134
+  response: |-
+    72E100C62280B60442F
+    72E2197028FAE4BF600
+- expected_values:
+    BRONCOSPORT_TYRE_T: 37
+  response: |-
+    72E100C62280B60442F
+    72E219702944D469100
+- expected_values:
+    BRONCOSPORT_TYRE_T: 38
+  response: |-
+    72E100C62280B604435
+    72E21D302674E46CB00
+- expected_values:
+    BRONCOSPORT_TYRE_T: 40
+  response: |-
+    72E100C62280B604435
+    72E21D3026C5046CE00
+- expected_values:
+    BRONCOSPORT_TYRE_T: 41
+  response: |-
+    72E100C62280B604435
+    72E21D3026C5146CF00
+- expected_values:
+    BRONCOSPORT_TYRE_T: 35
+  response: |-
     72E100C62280B60443A
-    72E212C027B4F462E00
+    72E212C02714B462800
+- expected_values:
+    BRONCOSPORT_TYRE_T: 26
+  response: |-
+    72E100C62280B60443A
+    72E212C0280424B2700
+- expected_values:
+    BRONCOSPORT_TYRE_T: 35
+  response: |-
+    72E100C62280B60443C
+    72E21D302584B46CC00

@@ -1,0 +1,14 @@
+command_id: 7E0.7E8.221E1A
+test_cases:
+- expected_values:
+    BRONCOSPORT_PCM_CMD_TRANS_MAIN_LINE_P: 336
+  response: 7E805621E1A00A8
+- expected_values:
+    BRONCOSPORT_PCM_CMD_TRANS_MAIN_LINE_P: 508
+  response: 7E805621E1A00FE
+- expected_values:
+    BRONCOSPORT_PCM_CMD_TRANS_MAIN_LINE_P: 558
+  response: 7E805621E1A0117
+- expected_values:
+    BRONCOSPORT_PCM_CMD_TRANS_MAIN_LINE_P: 1600
+  response: 7E805621E1A0320

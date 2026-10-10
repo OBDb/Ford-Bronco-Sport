@@ -1,5 +1,11 @@
 command_id: 7E0.7E8.22F41F
 test_cases:
 - expected_values:
-    BRONCOSPORT_RUN_TIME: 45
-  response: 7E80562F41F002D
+    BRONCOSPORT_RUN_TIME: 0
+  response: 7E80562F41F0000
+- expected_values:
+    BRONCOSPORT_RUN_TIME: 1534
+  response: 7E80562F41F05FE
+- expected_values:
+    BRONCOSPORT_RUN_TIME: 3081
+  response: 7E80562F41F0C09

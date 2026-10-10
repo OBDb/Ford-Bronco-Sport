@@ -1,0 +1,8 @@
+command_id: 7E0.7E8.220415
+test_cases:
+- expected_values:
+    BRONCOSPORT_PCM_ENG_EOP_RAW: 97
+  response: '7E8056204150061'
+- expected_values:
+    BRONCOSPORT_PCM_ENG_EOP_RAW: 513
+  response: '7E8056204150201'

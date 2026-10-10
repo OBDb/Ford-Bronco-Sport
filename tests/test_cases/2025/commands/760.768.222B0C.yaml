@@ -1,5 +1,11 @@
 command_id: 760.768.222B0C
 test_cases:
 - expected_values:
-    BRONCOSPORT_LAT_ANG: 4
-  response: 76805622B0C0004
+    BRONCOSPORT_LAT_ANG: 0
+  response: 76805622B0C0000
+- expected_values:
+    BRONCOSPORT_LAT_ANG: -71
+  response: 76805622B0CFFB9
+- expected_values:
+    BRONCOSPORT_LAT_ANG: -1
+  response: 76805622B0CFFFF

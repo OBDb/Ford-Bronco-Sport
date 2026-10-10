@@ -1,5 +1,14 @@
 command_id: 7E0.7E8.220604
 test_cases:
 - expected_values:
-    BRONCOSPORT_PCM_A_C_REFRIG_P: 1643
-  response: 7E805620604066B
+    BRONCOSPORT_PCM_A_C_REFRIG_P: 973
+  response: 7E80562060403CD
+- expected_values:
+    BRONCOSPORT_PCM_A_C_REFRIG_P: 1031
+  response: '7E8056206040407'
+- expected_values:
+    BRONCOSPORT_PCM_A_C_REFRIG_P: 1278
+  response: 7E80562060404FE
+- expected_values:
+    BRONCOSPORT_PCM_A_C_REFRIG_P: 1560
+  response: '7E8056206040618'

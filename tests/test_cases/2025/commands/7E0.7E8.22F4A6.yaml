@@ -1,0 +1,11 @@
+command_id: 7E0.7E8.22F4A6
+test_cases:
+- expected_values:
+    BRONCOSPORT_PCM_VEH_ODO: 8761
+  response: 7E80762F4A60001563A
+- expected_values:
+    BRONCOSPORT_PCM_VEH_ODO: 8780.4
+  response: 7E80762F4A6000156FC
+- expected_values:
+    BRONCOSPORT_PCM_VEH_ODO: 8780.8
+  response: 7E80762F4A600015700

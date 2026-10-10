@@ -1,0 +1,11 @@
+command_id: 7E0.7E8.22F442
+test_cases:
+- expected_values:
+    BRONCOSPORT_BAT_V_7E0: 12.614
+  response: 7E80562F4423146
+- expected_values:
+    BRONCOSPORT_BAT_V_7E0: 13.817
+  response: 7E80562F44235F9
+- expected_values:
+    BRONCOSPORT_BAT_V_7E0: 13.824
+  response: 7E80562F4423600

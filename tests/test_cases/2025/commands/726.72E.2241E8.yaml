@@ -1,5 +1,29 @@
 command_id: 726.72E.2241E8
 test_cases:
 - expected_values:
+    BRONCOSPORT_VEH_BAT_B_V: 12.65
+  response: 72E046241E885
+- expected_values:
+    BRONCOSPORT_VEH_BAT_B_V: 12.85
+  response: 72E046241E889
+- expected_values:
+    BRONCOSPORT_VEH_BAT_B_V: 12.9
+  response: 72E046241E88A
+- expected_values:
+    BRONCOSPORT_VEH_BAT_B_V: 13.15
+  response: 72E046241E88F
+- expected_values:
+    BRONCOSPORT_VEH_BAT_B_V: 13.2
+  response: 72E046241E890
+- expected_values:
+    BRONCOSPORT_VEH_BAT_B_V: 13.7
+  response: 72E046241E89A
+- expected_values:
+    BRONCOSPORT_VEH_BAT_B_V: 13.75
+  response: 72E046241E89B
+- expected_values:
     BRONCOSPORT_VEH_BAT_B_V: 13.8
   response: 72E046241E89C
+- expected_values:
+    BRONCOSPORT_VEH_BAT_B_V: 13.9
+  response: 72E046241E89E

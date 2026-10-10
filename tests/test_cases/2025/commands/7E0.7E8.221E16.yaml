@@ -1,0 +1,14 @@
+command_id: 7E0.7E8.221E16
+test_cases:
+- expected_values:
+    BRONCOSPORT_AXLE_GEAR_RATIO_MEAS: 0.74707
+  response: 7E805621E160BF4
+- expected_values:
+    BRONCOSPORT_AXLE_GEAR_RATIO_MEAS: 0.99976
+  response: 7E805621E160FFF
+- expected_values:
+    BRONCOSPORT_AXLE_GEAR_RATIO_MEAS: 1
+  response: 7E805621E161000
+- expected_values:
+    BRONCOSPORT_AXLE_GEAR_RATIO_MEAS: 10
+  response: 7E805621E16A000
