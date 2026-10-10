@@ -1,0 +1,14 @@
+command_id: 7E0.7E8.224194
+test_cases:
+- expected_values:
+    BRONCOSPORT_DTE: 327.7
+  response: 7E8056241940CCD
+- expected_values:
+    BRONCOSPORT_DTE: 563.3
+  response: '7E8056241941601'
+- expected_values:
+    BRONCOSPORT_DTE: 588.7
+  response: 7E80562419416FF
+- expected_values:
+    BRONCOSPORT_DTE: 589
+  response: '7E8056241941702'

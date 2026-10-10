@@ -1,0 +1,11 @@
+command_id: 7E0.7E8.220334
+test_cases:
+- expected_values:
+    BRONCOSPORT_PCM_CYL_HEAD_T_CORR: 65.51562
+  response: '7E8056203341061'
+- expected_values:
+    BRONCOSPORT_PCM_CYL_HEAD_T_CORR: 91.95312
+  response: 7E80562033416FD
+- expected_values:
+    BRONCOSPORT_PCM_CYL_HEAD_T_CORR: 92.04688
+  response: '7E8056203341703'

@@ -1,0 +1,8 @@
+command_id: 7E0.7E8.22F431
+test_cases:
+- expected_values:
+    BRONCOSPORT_DIST_DTC_CLR: 1412
+  response: 7E80562F4310584
+- expected_values:
+    BRONCOSPORT_DIST_DTC_CLR: 1434
+  response: 7E80562F431059A

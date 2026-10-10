@@ -1,0 +1,11 @@
+command_id: 7E0.7E8.2203EC
+test_cases:
+- expected_values:
+    BRONCOSPORT_IGN_CORR_CYL1: 0
+  response: 7E8056203EC0000
+- expected_values:
+    BRONCOSPORT_IGN_CORR_CYL1: 1.48047
+  response: 7E8056203EC02F6
+- expected_values:
+    BRONCOSPORT_IGN_CORR_CYL1: -0.72266
+  response: 7E8056203ECFE8E

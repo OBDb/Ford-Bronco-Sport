@@ -1,5 +1,14 @@
 command_id: 726.72E.224209
 test_cases:
 - expected_values:
-    BRONCOSPORT_BAT_CURRENT: 38.75
-  response: 72E0762420900009B00
+    BRONCOSPORT_BAT_CURRENT: 4.5
+  response: '72E0762420900001240'
+- expected_values:
+    BRONCOSPORT_BAT_CURRENT: 21
+  response: '72E0762420900005400'
+- expected_values:
+    BRONCOSPORT_BAT_CURRENT: 21.25
+  response: 72E07624209000055E0
+- expected_values:
+    BRONCOSPORT_BAT_CURRENT: 44.75
+  response: 72E076242090000B3C0

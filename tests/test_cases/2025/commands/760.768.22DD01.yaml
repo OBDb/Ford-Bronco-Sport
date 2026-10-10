@@ -3,3 +3,6 @@ test_cases:
 - expected_values:
     BRONCOSPORT_ABS_ODO: 8761
   response: 7680662DD01002239
+- expected_values:
+    BRONCOSPORT_ABS_ODO: 8782
+  response: 7680662DD0100224E

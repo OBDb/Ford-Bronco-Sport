@@ -1,5 +1,14 @@
 command_id: 760.768.223302
 test_cases:
 - expected_values:
-    BRONCOSPORT_BCM_STEER_ANG_ACT: 9.9
-  response: 768056233021EDB
+    BRONCOSPORT_BCM_STEER_ANG_ACT: -339.7
+  response: '768056233021133'
+- expected_values:
+    BRONCOSPORT_BCM_STEER_ANG_ACT: 14.5
+  response: 768056233021F09
+- expected_values:
+    BRONCOSPORT_BCM_STEER_ANG_ACT: 462.7
+  response: 76805623302308B
+- expected_values:
+    BRONCOSPORT_BCM_STEER_ANG_ACT: 473.2
+  response: 7680562330230F4

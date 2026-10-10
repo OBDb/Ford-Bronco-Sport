@@ -3,3 +3,6 @@ test_cases:
 - expected_values:
     BRONCOSPORT_NORM_CUM_CHG_IGN_ON: 21
   response: 72E0562401E00D2
+- expected_values:
+    BRONCOSPORT_NORM_CUM_CHG_IGN_ON: 21.1
+  response: 72E0562401E00D3

@@ -1,0 +1,14 @@
+command_id: 7E0.7E8.2203E3
+test_cases:
+- expected_values:
+    BRONCOSPORT_PF_DIFF_P_FEEDBACK_V: 0.28626
+  response: 7E8056203E30125
+- expected_values:
+    BRONCOSPORT_PF_DIFF_P_FEEDBACK_V: 0.74936
+  response: 7E8056203E302FF
+- expected_values:
+    BRONCOSPORT_PF_DIFF_P_FEEDBACK_V: 1.25251
+  response: 7E8056203E30502
+- expected_values:
+    BRONCOSPORT_PF_DIFF_P_FEEDBACK_V: 1.61596
+  response: 7E8056203E30676
