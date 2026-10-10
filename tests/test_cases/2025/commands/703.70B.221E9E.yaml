@@ -1,0 +1,5 @@
+command_id: 703.70B.221E9E
+test_cases:
+- expected_values:
+    BRONCOSPORT_MEAS_CURRENT_CLU: 0.3
+  response: 70B05621E9E001E

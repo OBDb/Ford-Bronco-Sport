@@ -1,0 +1,5 @@
+command_id: 703.70B.220185
+test_cases:
+- expected_values:
+    BRONCOSPORT_POWER_TRANSFER_UNIT_REQ_TQ_CAP: 82
+  response: 70B056201850052
