@@ -1,0 +1,11 @@
+command_id: 7E0.7E8.220370
+test_cases:
+- expected_values:
+    BRONCOSPORT_MAP_HIRES: 35.5
+  response: 7E805620370008E
+- expected_values:
+    BRONCOSPORT_MAP_HIRES: 59
+  response: 7E80562037000EC
+- expected_values:
+    BRONCOSPORT_MAP_HIRES: 73
+  response: '7E8056203700124'

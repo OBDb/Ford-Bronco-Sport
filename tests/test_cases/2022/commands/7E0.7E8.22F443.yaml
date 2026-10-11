@@ -1,0 +1,8 @@
+command_id: 7E0.7E8.22F443
+test_cases:
+- expected_values:
+    BRONCOSPORT_ENG_LOAD_ACT: 10.98039
+  response: 7E80562F443001C
+- expected_values:
+    BRONCOSPORT_ENG_LOAD_ACT: 80
+  response: 7E80562F44300CC

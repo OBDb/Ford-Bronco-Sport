@@ -1,0 +1,11 @@
+command_id: 726.72E.224209
+test_cases:
+- expected_values:
+    BRONCOSPORT_BAT_CURRENT: 1
+  response: 72E07624209000004C0
+- expected_values:
+    BRONCOSPORT_BAT_CURRENT: 1.75
+  response: '72E0762420900000700'
+- expected_values:
+    BRONCOSPORT_BAT_CURRENT: -1.25
+  response: 72E07624209FFFFFBE0

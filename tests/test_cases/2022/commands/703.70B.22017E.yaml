@@ -1,0 +1,17 @@
+command_id: 703.70B.22017E
+test_cases:
+- expected_values:
+    BRONCOSPORT_POWER_TRANSFER_UNIT: 0
+  response: 70B0562017E0000
+- expected_values:
+    BRONCOSPORT_POWER_TRANSFER_UNIT: 52.5
+  response: 70B0562017E0069
+- expected_values:
+    BRONCOSPORT_POWER_TRANSFER_UNIT: 97
+  response: 70B0562017E00C2
+- expected_values:
+    BRONCOSPORT_POWER_TRANSFER_UNIT: 121.5
+  response: 70B0562017E00F3
+- expected_values:
+    BRONCOSPORT_POWER_TRANSFER_UNIT: 268
+  response: 70B0562017E0218

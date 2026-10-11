@@ -1,0 +1,11 @@
+command_id: 7E0.7E8.220429
+test_cases:
+- expected_values:
+    BRONCOSPORT_FUEL_T_7E0: 17.75
+  response: '7E8056204290470'
+- expected_values:
+    BRONCOSPORT_FUEL_T_7E0: 19.85938
+  response: 7E80562042904F7
+- expected_values:
+    BRONCOSPORT_FUEL_T_7E0: 24
+  response: '7E8056204290600'

@@ -1,0 +1,14 @@
+command_id: 7E0.7E8.2205FC
+test_cases:
+- expected_values:
+    BRONCOSPORT_PCM_CYL_HEAD_T_SENS_2_RAW: 53.21875
+  response: 7E8056205FC0D4E
+- expected_values:
+    BRONCOSPORT_PCM_CYL_HEAD_T_SENS_2_RAW: 60.0625
+  response: 7E8056205FC0F04
+- expected_values:
+    BRONCOSPORT_PCM_CYL_HEAD_T_SENS_2_RAW: 79.98438
+  response: 7E8056205FC13FF
+- expected_values:
+    BRONCOSPORT_PCM_CYL_HEAD_T_SENS_2_RAW: 81.60938
+  response: 7E8056205FC1467
