@@ -1,0 +1,11 @@
+command_id: 7E0.7E8.220548
+test_cases:
+- expected_values:
+    BRONCOSPORT_LPFP_ACT: 56.05836
+  response: '7E8056205480305'
+- expected_values:
+    BRONCOSPORT_LPFP_ACT: 71.65028
+  response: 7E80562054803DC
+- expected_values:
+    BRONCOSPORT_LPFP_ACT: 75.20378
+  response: 7E805620548040D

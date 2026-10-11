@@ -1,0 +1,5 @@
+command_id: 726.72E.224027
+test_cases:
+- expected_values:
+    BRONCOSPORT_BATT_AGE: 413
+  response: 72E05624027019D
