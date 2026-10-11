@@ -5,4 +5,4 @@ test_cases:
   response: 7E8046203C00B
 - expected_values:
     BRONCOSPORT_MIS_MON_STAT: 1
-  response: 7E8046203C0FE
+  response: 7E8046203C0FF

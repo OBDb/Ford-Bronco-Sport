@@ -4,5 +4,8 @@ test_cases:
     BRONCOSPORT_PCM_ENG_EOP_RAW: 97
   response: '7E8056204150061'
 - expected_values:
+    BRONCOSPORT_PCM_ENG_EOP_RAW: 500
+  response: 7E80562041501F4
+- expected_values:
     BRONCOSPORT_PCM_ENG_EOP_RAW: 513
   response: '7E8056204150201'

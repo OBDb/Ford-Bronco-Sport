@@ -1,8 +1,8 @@
 command_id: 7E0.7E8.221279
 test_cases:
 - expected_values:
-    BRONCOSPORT_IAT_SENS_V: 1.06549
-  response: 7E80562127900DA
+    BRONCOSPORT_IAT_SENS_V: 0.97752
+  response: 7E80562127900C8
 - expected_values:
     BRONCOSPORT_IAT_SENS_V: 1.16813
   response: 7E80562127900EF

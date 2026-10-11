@@ -7,5 +7,5 @@ test_cases:
     BRONCOSPORT_YAW_RATE_SIG: -28.6
   response: 76805622B0BFF71
 - expected_values:
-    BRONCOSPORT_YAW_RATE_SIG: -3.2
-  response: 76805622B0BFFF0
+    BRONCOSPORT_YAW_RATE_SIG: -2.4
+  response: 76805622B0BFFF4

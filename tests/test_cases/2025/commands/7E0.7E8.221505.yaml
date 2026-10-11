@@ -4,8 +4,8 @@ test_cases:
     BRONCOSPORT_VSS_HD: 0
   response: '7E8056215050000'
 - expected_values:
-    BRONCOSPORT_VSS_HD: 15.98438
-  response: 7E80562150507FE
+    BRONCOSPORT_VSS_HD: 113.99219
+  response: 7E80562150538FF
 - expected_values:
-    BRONCOSPORT_VSS_HD: 71.40625
-  response: 7E80562150523B4
+    BRONCOSPORT_VSS_HD: 122.04688
+  response: 7E8056215053D06

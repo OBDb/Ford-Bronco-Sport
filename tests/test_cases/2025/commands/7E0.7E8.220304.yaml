@@ -4,8 +4,11 @@ test_cases:
     BRONCOSPORT_CMD_GEN_V: 10.5935
   response: 7E80562030454CC
 - expected_values:
-    BRONCOSPORT_CMD_GEN_V: 14.00609
-  response: 7E805620304701D
+    BRONCOSPORT_CMD_GEN_V: 14.2413
+  response: 7E80562030471FF
 - expected_values:
-    BRONCOSPORT_CMD_GEN_V: 14.1359
-  response: '7E8056203047127'
+    BRONCOSPORT_CMD_GEN_V: 14.24179
+  response: '7E8056203047200'
+- expected_values:
+    BRONCOSPORT_CMD_GEN_V: 14.41162
+  response: 7E805620304735C
