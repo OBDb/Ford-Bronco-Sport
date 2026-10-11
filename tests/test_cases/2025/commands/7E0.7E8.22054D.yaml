@@ -1,8 +1,8 @@
 command_id: 7E0.7E8.22054D
 test_cases:
 - expected_values:
-    BRONCOSPORT_LPFP_SENS_V: 1.99219
-  response: 7E80562054D07F8
+    BRONCOSPORT_LPFP_SENS_V: 1.95996
+  response: 7E80562054D07D7
 - expected_values:
     BRONCOSPORT_LPFP_SENS_V: 2.25
   response: 7E80562054D0900

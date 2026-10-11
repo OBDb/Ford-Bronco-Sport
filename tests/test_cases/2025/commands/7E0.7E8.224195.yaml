@@ -4,8 +4,11 @@ test_cases:
     BRONCOSPORT_DTE_DISP: 330.1
   response: 7E8056241950CE5
 - expected_values:
-    BRONCOSPORT_DTE_DISP: 588.7
-  response: 7E80562419516FF
+    BRONCOSPORT_DTE_DISP: 563.1
+  response: 7E80562419515FF
+- expected_values:
+    BRONCOSPORT_DTE_DISP: 563.2
+  response: '7E8056241951600'
 - expected_values:
     BRONCOSPORT_DTE_DISP: 588.8
   response: '7E8056241951700'

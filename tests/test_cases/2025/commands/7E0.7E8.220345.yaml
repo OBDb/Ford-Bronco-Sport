@@ -18,3 +18,12 @@ test_cases:
 - expected_values:
     BRONCOSPORT_PCM_MISF_EVENTS_LATEST_CYC: 5
   response: '7E80762034500000005'
+- expected_values:
+    BRONCOSPORT_PCM_MISF_EVENTS_LATEST_CYC: 6
+  response: '7E80762034500000006'
+- expected_values:
+    BRONCOSPORT_PCM_MISF_EVENTS_LATEST_CYC: 7
+  response: '7E80762034500000007'
+- expected_values:
+    BRONCOSPORT_PCM_MISF_EVENTS_LATEST_CYC: 8
+  response: '7E80762034500000008'

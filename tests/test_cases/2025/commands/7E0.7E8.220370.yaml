@@ -1,14 +1,14 @@
 command_id: 7E0.7E8.220370
 test_cases:
 - expected_values:
-    BRONCOSPORT_MAP_HIRES: 24
-  response: '7E8056203700060'
+    BRONCOSPORT_MAP_HIRES: 23
+  response: 7E805620370005C
 - expected_values:
     BRONCOSPORT_MAP_HIRES: 63.5
   response: 7E80562037000FE
 - expected_values:
-    BRONCOSPORT_MAP_HIRES: 65.25
-  response: '7E8056203700105'
+    BRONCOSPORT_MAP_HIRES: 64.25
+  response: '7E8056203700101'
 - expected_values:
-    BRONCOSPORT_MAP_HIRES: 142.5
-  response: 7E805620370023A
+    BRONCOSPORT_MAP_HIRES: 129.5
+  response: '7E8056203700206'

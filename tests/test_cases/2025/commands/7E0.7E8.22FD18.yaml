@@ -3,3 +3,15 @@ test_cases:
 - expected_values:
     BRONCOSPORT_AC_P_7E0: 0
   response: 7E80762FD1800000438
+- expected_values:
+    BRONCOSPORT_AC_P_7E0: 0
+  response: 7E80762FD1800000812
+- expected_values:
+    BRONCOSPORT_AC_P_7E0: 0
+  response: 7E80762FD180000084E
+- expected_values:
+    BRONCOSPORT_AC_P_7E0: 0
+  response: 7E80762FD180000088A
+- expected_values:
+    BRONCOSPORT_AC_P_7E0: 0
+  response: 7E80762FD18000008C6

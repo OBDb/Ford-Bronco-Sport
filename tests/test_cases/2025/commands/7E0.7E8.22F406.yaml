@@ -4,5 +4,5 @@ test_cases:
     BRONCOSPORT_STFT: -16.40625
   response: 7E80462F4066B
 - expected_values:
-    BRONCOSPORT_STFT: 10.15625
-  response: 7E80462F4068D
+    BRONCOSPORT_STFT: 15.625
+  response: 7E80462F40694

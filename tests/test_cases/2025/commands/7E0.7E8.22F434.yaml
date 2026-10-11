@@ -2,10 +2,10 @@ command_id: 7E0.7E8.22F434
 test_cases:
 - expected_values:
     BRONCOSPORT_AIR_FUEL_RAT: 0
-  response: 7E80762F43400008000
+  response: 7E80762F43400007FFC
 - expected_values:
-    BRONCOSPORT_AIR_FUEL_RAT: 12.30541
-  response: 7E80762F4346B967F94
+    BRONCOSPORT_AIR_FUEL_RAT: 0
+  response: 7E80762F43400008000
 - expected_values:
     BRONCOSPORT_AIR_FUEL_RAT: 14.47769
   response: 7E80762F4347E947FFF

@@ -4,8 +4,11 @@ test_cases:
     BRONCOSPORT_PCM_VEH_ODO: 8761
   response: 7E80762F4A60001563A
 - expected_values:
-    BRONCOSPORT_PCM_VEH_ODO: 8780.4
-  response: 7E80762F4A6000156FC
-- expected_values:
     BRONCOSPORT_PCM_VEH_ODO: 8780.8
   response: 7E80762F4A600015700
+- expected_values:
+    BRONCOSPORT_PCM_VEH_ODO: 8831.9
+  response: 7E80762F4A6000158FF
+- expected_values:
+    BRONCOSPORT_PCM_VEH_ODO: 8833
+  response: 7E80762F4A60001590A

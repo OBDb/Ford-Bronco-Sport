@@ -1,8 +1,8 @@
 command_id: 7E0.7E8.22F405
 test_cases:
 - expected_values:
-    BRONCOSPORT_CYL_HEAD_T_7E0_2: 65
-  response: 7E80462F40569
+    BRONCOSPORT_CYL_HEAD_T_7E0_2: 39
+  response: 7E80462F4054F
 - expected_values:
-    BRONCOSPORT_CYL_HEAD_T_7E0_2: 94
-  response: 7E80462F40586
+    BRONCOSPORT_CYL_HEAD_T_7E0_2: 95
+  response: 7E80462F40587

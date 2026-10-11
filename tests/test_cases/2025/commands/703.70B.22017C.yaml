@@ -1,8 +1,8 @@
 command_id: 703.70B.22017C
 test_cases:
 - expected_values:
-    BRONCOSPORT_ACTUATOR_CAM_POS: 52.28125
-  response: 70B0562017C0D12
+    BRONCOSPORT_ACTUATOR_CAM_POS: 46.09375
+  response: 70B0562017C0B86
 - expected_values:
     BRONCOSPORT_ACTUATOR_CAM_POS: 323.8125
   response: 70B0562017C50F4

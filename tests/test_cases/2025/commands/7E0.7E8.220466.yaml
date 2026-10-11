@@ -4,5 +4,11 @@ test_cases:
     BRONCOSPORT_TIP_DES_ABS: 5.94925
   response: '7E8056204661501'
 - expected_values:
-    BRONCOSPORT_TIP_DES_ABS: 19.7652
-  response: 7E80562046645C8
+    BRONCOSPORT_TIP_DES_ABS: 14.72875
+  response: '7E8056204663400'
+- expected_values:
+    BRONCOSPORT_TIP_DES_ABS: 15.29302
+  response: 7E80562046635FE
+- expected_values:
+    BRONCOSPORT_TIP_DES_ABS: 25.85939
+  response: 7E8056204665B4C
