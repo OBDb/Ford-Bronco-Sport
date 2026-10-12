@@ -1,0 +1,5 @@
+command_id: 7E0.7E8.22F45E
+test_cases:
+- expected_values:
+    BRONCOSPORT_ENG_FUEL_RATE: 0.6
+  response: 7E80562F45E000C

@@ -1,0 +1,5 @@
+command_id: 7E0.7E8.22041F
+test_cases:
+- expected_values:
+    BRONCOSPORT_LPFP_DES: 65.25
+  response: 7E80462041F96
