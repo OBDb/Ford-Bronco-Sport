@@ -4,8 +4,11 @@ test_cases:
     BRONCOSPORT_RUN_TIME: 1291
   response: 7E80562F41F050B
 - expected_values:
-    BRONCOSPORT_RUN_TIME: 1318
-  response: 7E80562F41F0526
+    BRONCOSPORT_RUN_TIME: 2304
+  response: 7E80562F41F0900
 - expected_values:
-    BRONCOSPORT_RUN_TIME: 1350
-  response: 7E80562F41F0546
+    BRONCOSPORT_RUN_TIME: 3071
+  response: 7E80562F41F0BFF
+- expected_values:
+    BRONCOSPORT_RUN_TIME: 5915
+  response: 7E80562F41F171B

@@ -1,8 +1,8 @@
 command_id: 7E0.7E8.220707
 test_cases:
 - expected_values:
-    BRONCOSPORT_GRILL_SHUT_DC: 4.70588
-  response: 7E8046207070C
+    BRONCOSPORT_GRILL_SHUT_DC: 4.31373
+  response: 7E8046207070B
 - expected_values:
-    BRONCOSPORT_GRILL_SHUT_DC: 5.09804
-  response: 7E8046207070D
+    BRONCOSPORT_GRILL_SHUT_DC: 100
+  response: 7E804620707FF

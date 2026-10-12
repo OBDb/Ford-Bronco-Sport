@@ -3,3 +3,6 @@ test_cases:
 - expected_values:
     BRONCOSPORT_LPFP_DES: 65.25
   response: 7E80462041F96
+- expected_values:
+    BRONCOSPORT_LPFP_DES: 77.865
+  response: 7E80462041FB3
