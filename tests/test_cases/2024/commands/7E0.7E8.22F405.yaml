@@ -24,3 +24,6 @@ test_cases:
 - expected_values:
     BRONCOSPORT_CYL_HEAD_T_7E0_2: 100
   response: 7E80462F4058C
+- expected_values:
+    BRONCOSPORT_CYL_HEAD_T_7E0_2: 101
+  response: 7E80462F4058D

@@ -1,8 +1,8 @@
 command_id: 7E0.7E8.220466
 test_cases:
 - expected_values:
-    BRONCOSPORT_TIP_DES_ABS: 14.20319
-  response: '7E8056204663225'
+    BRONCOSPORT_TIP_DES_ABS: 14.18881
+  response: '7E8056204663218'
 - expected_values:
     BRONCOSPORT_TIP_DES_ABS: 15.02306
   response: 7E805620466350A
@@ -10,5 +10,5 @@ test_cases:
     BRONCOSPORT_TIP_DES_ABS: 16.42268
   response: 7E80562046639FB
 - expected_values:
-    BRONCOSPORT_TIP_DES_ABS: 22.13074
-  response: 7E8056204664E22
+    BRONCOSPORT_TIP_DES_ABS: 22.73927
+  response: '7E8056204665048'

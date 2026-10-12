@@ -4,26 +4,8 @@ test_cases:
     BRONCOSPORT_IGN_CORR_CYL1: 0
   response: 7E8056203EC0000
 - expected_values:
-    BRONCOSPORT_IGN_CORR_CYL1: 0.02344
-  response: 7E8056203EC000C
-- expected_values:
-    BRONCOSPORT_IGN_CORR_CYL1: 0.24023
-  response: 7E8056203EC007B
-- expected_values:
-    BRONCOSPORT_IGN_CORR_CYL1: 2.72852
-  response: 7E8056203EC0575
-- expected_values:
-    BRONCOSPORT_IGN_CORR_CYL1: -2.45703
-  response: 7E8056203ECFB16
-- expected_values:
-    BRONCOSPORT_IGN_CORR_CYL1: -2
-  response: 7E8056203ECFC00
-- expected_values:
-    BRONCOSPORT_IGN_CORR_CYL1: -1
-  response: 7E8056203ECFE00
-- expected_values:
-    BRONCOSPORT_IGN_CORR_CYL1: -0.88477
-  response: 7E8056203ECFE3B
+    BRONCOSPORT_IGN_CORR_CYL1: -1.02148
+  response: 7E8056203ECFDF5
 - expected_values:
     BRONCOSPORT_IGN_CORR_CYL1: -0.5
   response: 7E8056203ECFF00

@@ -1,8 +1,8 @@
 command_id: 7E0.7E8.22F404
 test_cases:
 - expected_values:
-    BRONCOSPORT_ENG_LOAD_PCT: 10.58824
-  response: 7E80462F4041B
+    BRONCOSPORT_ENG_LOAD_PCT: 0
+  response: 7E80462F40400
 - expected_values:
-    BRONCOSPORT_ENG_LOAD_PCT: 98.82353
-  response: 7E80462F404FC
+    BRONCOSPORT_ENG_LOAD_PCT: 99.60784
+  response: 7E80462F404FE
