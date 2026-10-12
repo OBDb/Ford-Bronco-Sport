@@ -1,5 +1,8 @@
 command_id: 7E0.7E8.22F407
 test_cases:
 - expected_values:
-    BRONCOSPORT_LTFT: 7.8125
-  response: 7E80462F4078A
+    BRONCOSPORT_LTFT: -3.90625
+  response: 7E80462F4077B
+- expected_values:
+    BRONCOSPORT_LTFT: 13.28125
+  response: 7E80462F40791

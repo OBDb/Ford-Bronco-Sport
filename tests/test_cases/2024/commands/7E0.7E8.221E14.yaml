@@ -1,8 +1,11 @@
 command_id: 7E0.7E8.221E14
 test_cases:
 - expected_values:
-    BRONCOSPORT_ACT_TQ_CONV_SLIP: -7.75
-  response: 7E805621E14FFE1
+    BRONCOSPORT_ACT_TQ_CONV_SLIP: 0
+  response: 7E805621E140000
 - expected_values:
-    BRONCOSPORT_ACT_TQ_CONV_SLIP: -3.25
-  response: 7E805621E14FFF3
+    BRONCOSPORT_ACT_TQ_CONV_SLIP: 127.75
+  response: 7E805621E1401FF
+- expected_values:
+    BRONCOSPORT_ACT_TQ_CONV_SLIP: -42.25
+  response: 7E805621E14FF57

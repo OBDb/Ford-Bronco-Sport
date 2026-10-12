@@ -1,11 +1,14 @@
 command_id: 7E0.7E8.220304
 test_cases:
 - expected_values:
-    BRONCOSPORT_CMD_GEN_V: 14.70442
-  response: 7E80562030475B4
+    BRONCOSPORT_CMD_GEN_V: 14.43992
+  response: '7E8056203047396'
 - expected_values:
-    BRONCOSPORT_CMD_GEN_V: 14.7049
-  response: 7E80562030475B5
+    BRONCOSPORT_CMD_GEN_V: 14.49116
+  response: 7E80562030473FF
 - expected_values:
-    BRONCOSPORT_CMD_GEN_V: 14.70539
-  response: 7E80562030475B6
+    BRONCOSPORT_CMD_GEN_V: 14.49165
+  response: '7E8056203047400'
+- expected_values:
+    BRONCOSPORT_CMD_GEN_V: 14.61804
+  response: '7E8056203047503'

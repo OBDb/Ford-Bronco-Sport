@@ -4,5 +4,11 @@ test_cases:
     BRONCOSPORT_BAT_CURRENT: 0
   response: '72E0762420900000020'
 - expected_values:
+    BRONCOSPORT_BAT_CURRENT: 0.25
+  response: 72E07624209000001E0
+- expected_values:
+    BRONCOSPORT_BAT_CURRENT: 0.5
+  response: '72E0762420900000200'
+- expected_values:
     BRONCOSPORT_BAT_CURRENT: -0.25
-  response: 72E07624209FFFFFFC0
+  response: 72E07624209FFFFFF40

@@ -1,5 +1,14 @@
 command_id: 7E0.7E8.220403
 test_cases:
 - expected_values:
-    BRONCOSPORT_KS1_RAW: 183
-  response: 7E80562040300B7
+    BRONCOSPORT_KS1_RAW: 135
+  response: '7E8056204030087'
+- expected_values:
+    BRONCOSPORT_KS1_RAW: 254
+  response: 7E80562040300FE
+- expected_values:
+    BRONCOSPORT_KS1_RAW: 256
+  response: '7E8056204030100'
+- expected_values:
+    BRONCOSPORT_KS1_RAW: 820
+  response: '7E8056204030334'

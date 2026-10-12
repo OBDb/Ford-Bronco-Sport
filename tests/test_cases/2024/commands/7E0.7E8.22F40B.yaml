@@ -1,8 +1,8 @@
 command_id: 7E0.7E8.22F40B
 test_cases:
 - expected_values:
-    BRONCOSPORT_MAP: 4.35117
-  response: 7E80462F40B1E
+    BRONCOSPORT_MAP: 3.3359
+  response: 7E80462F40B17
 - expected_values:
-    BRONCOSPORT_MAP: 4.49621
-  response: 7E80462F40B1F
+    BRONCOSPORT_MAP: 21.03065
+  response: 7E80462F40B91

@@ -5,3 +5,43 @@ test_cases:
   response: |-
     72E100C62280B293977
     72E211D039D36443900
+- expected_values:
+    BRONCOSPORT_TYRE_T: 25
+  response: |-
+    72E100C62280B6B4FB0
+    72E213B02584146B400
+- expected_values:
+    BRONCOSPORT_TYRE_T: 23
+  response: |-
+    72E100C62280B6B5000
+    72E219D02673F466800
+- expected_values:
+    BRONCOSPORT_TYRE_T: 24
+  response: |-
+    72E100C62280B6B5000
+    72E219D026740466900
+- expected_values:
+    BRONCOSPORT_TYRE_T: 32
+  response: |-
+    72E100C62280B6B5000
+    72E219D028048467600
+- expected_values:
+    BRONCOSPORT_TYRE_T: 22
+  response: |-
+    72E100C62280B6B500F
+    72E210802853E46E700
+- expected_values:
+    BRONCOSPORT_TYRE_T: 28
+  response: |-
+    72E100C62280B6B500F
+    72E2108028F4446EF00
+- expected_values:
+    BRONCOSPORT_TYRE_T: 28
+  response: |-
+    72E100C62280B6B500F
+    72E210802944446F000
+- expected_values:
+    BRONCOSPORT_TYRE_T: 26
+  response: |-
+    72E100C62280B6B825D
+    72E21B0043842466A00

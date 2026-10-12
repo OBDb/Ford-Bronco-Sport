@@ -3,3 +3,6 @@ test_cases:
 - expected_values:
     BRONCOSPORT_POWER_TRANSFER_UNIT_REQ_TQ: 0
   response: 70B056201820000
+- expected_values:
+    BRONCOSPORT_POWER_TRANSFER_UNIT_REQ_TQ: 99
+  response: 70B056201820063

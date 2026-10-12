@@ -3,3 +3,6 @@ test_cases:
 - expected_values:
     BRONCOSPORT_PCM_MISF_EVENTS_LATEST_CYC: 9
   response: '7E80762034500000009'
+- expected_values:
+    BRONCOSPORT_PCM_MISF_EVENTS_LATEST_CYC: 40
+  response: '7E80762034500000028'

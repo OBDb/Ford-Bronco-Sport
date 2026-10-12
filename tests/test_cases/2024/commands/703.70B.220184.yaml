@@ -3,3 +3,12 @@ test_cases:
 - expected_values:
     BRONCOSPORT_POWER_TRANSFER_UNIT_T: 42.25
   response: 70B0562018402A4
+- expected_values:
+    BRONCOSPORT_POWER_TRANSFER_UNIT_T: 47.8125
+  response: 70B0562018402FD
+- expected_values:
+    BRONCOSPORT_POWER_TRANSFER_UNIT_T: 48.5
+  response: 70B056201840308
+- expected_values:
+    BRONCOSPORT_POWER_TRANSFER_UNIT_T: 64.6875
+  response: 70B05620184040B
