@@ -1,14 +1,11 @@
 command_id: 7E0.7E8.22F40C
 test_cases:
 - expected_values:
-    BRONCOSPORT_RPM: 847
-  response: 7E80562F40C0D3C
+    BRONCOSPORT_RPM: 0
+  response: 7E80562F40C0000
 - expected_values:
-    BRONCOSPORT_RPM: 896
-  response: 7E80562F40C0E00
-- expected_values:
-    BRONCOSPORT_RPM: 2237.5
-  response: 7E80562F40C22F6
+    BRONCOSPORT_RPM: 1535.75
+  response: 7E80562F40C17FF
 - expected_values:
     BRONCOSPORT_RPM: 2436.25
   response: 7E80562F40C2611

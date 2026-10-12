@@ -12,3 +12,21 @@ test_cases:
 - expected_values:
     BRONCOSPORT_AAT_7E0: 17
   response: 7E80462F44639
+- expected_values:
+    BRONCOSPORT_AAT_7E0: 18
+  response: 7E80462F4463A
+- expected_values:
+    BRONCOSPORT_AAT_7E0: 19
+  response: 7E80462F4463B
+- expected_values:
+    BRONCOSPORT_AAT_7E0: 20
+  response: 7E80462F4463C
+- expected_values:
+    BRONCOSPORT_AAT_7E0: 21
+  response: 7E80462F4463D
+- expected_values:
+    BRONCOSPORT_AAT_7E0: 22
+  response: 7E80462F4463E
+- expected_values:
+    BRONCOSPORT_AAT_7E0: 23
+  response: 7E80462F4463F

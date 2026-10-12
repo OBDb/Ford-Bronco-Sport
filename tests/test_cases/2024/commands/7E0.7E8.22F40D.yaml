@@ -4,5 +4,5 @@ test_cases:
     BRONCOSPORT_VSS: 0
   response: 7E80462F40D00
 - expected_values:
-    BRONCOSPORT_VSS: 105
-  response: 7E80462F40D69
+    BRONCOSPORT_VSS: 111
+  response: 7E80462F40D6F

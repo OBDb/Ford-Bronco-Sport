@@ -4,11 +4,11 @@ test_cases:
     BRONCOSPORT_KS1_RAW: 135
   response: '7E8056204030087'
 - expected_values:
-    BRONCOSPORT_KS1_RAW: 254
-  response: 7E80562040300FE
+    BRONCOSPORT_KS1_RAW: 255
+  response: 7E80562040300FF
 - expected_values:
     BRONCOSPORT_KS1_RAW: 256
   response: '7E8056204030100'
 - expected_values:
-    BRONCOSPORT_KS1_RAW: 820
-  response: '7E8056204030334'
+    BRONCOSPORT_KS1_RAW: 1131
+  response: 7E805620403046B

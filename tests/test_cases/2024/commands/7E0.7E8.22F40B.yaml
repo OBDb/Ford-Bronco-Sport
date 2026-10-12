@@ -4,5 +4,5 @@ test_cases:
     BRONCOSPORT_MAP: 3.3359
   response: 7E80462F40B17
 - expected_values:
-    BRONCOSPORT_MAP: 21.03065
-  response: 7E80462F40B91
+    BRONCOSPORT_MAP: 25.67189
+  response: 7E80462F40BB1

@@ -4,23 +4,5 @@ test_cases:
     BRONCOSPORT_VEH_BAT_CURRENT: -2
   response: 72E0462402B7D
 - expected_values:
-    BRONCOSPORT_VEH_BAT_CURRENT: -1
-  response: 72E0462402B7E
-- expected_values:
-    BRONCOSPORT_VEH_BAT_CURRENT: 0
-  response: 72E0462402B7F
-- expected_values:
-    BRONCOSPORT_VEH_BAT_CURRENT: 1
-  response: 72E0462402B80
-- expected_values:
-    BRONCOSPORT_VEH_BAT_CURRENT: 2
-  response: 72E0462402B81
-- expected_values:
-    BRONCOSPORT_VEH_BAT_CURRENT: 3
-  response: 72E0462402B82
-- expected_values:
-    BRONCOSPORT_VEH_BAT_CURRENT: 4
-  response: 72E0462402B83
-- expected_values:
-    BRONCOSPORT_VEH_BAT_CURRENT: 5
-  response: 72E0462402B84
+    BRONCOSPORT_VEH_BAT_CURRENT: 34
+  response: 72E0462402BA1

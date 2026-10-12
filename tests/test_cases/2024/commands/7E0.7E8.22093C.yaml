@@ -7,8 +7,8 @@ test_cases:
     BRONCOSPORT_ETC_ANG_ACT: 1.99219
   response: 7E80562093C03FC
 - expected_values:
-    BRONCOSPORT_ETC_ANG_ACT: 29
-  response: 7E80562093C3A00
+    BRONCOSPORT_ETC_ANG_ACT: 2
+  response: 7E80562093C0400
 - expected_values:
     BRONCOSPORT_ETC_ANG_ACT: 50.89844
   response: 7E80562093C65CC
