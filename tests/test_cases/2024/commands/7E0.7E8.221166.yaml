@@ -1,0 +1,11 @@
+command_id: 7E0.7E8.221166
+test_cases:
+- expected_values:
+    BRONCOSPORT_EVAP_PURGE_CMD: 20.16907
+  response: 7E80562116619D1
+- expected_values:
+    BRONCOSPORT_EVAP_PURGE_CMD: 29.09851
+  response: 7E805621166253F
+- expected_values:
+    BRONCOSPORT_EVAP_PURGE_CMD: 30.27954
+  response: 7E80562116626C2
