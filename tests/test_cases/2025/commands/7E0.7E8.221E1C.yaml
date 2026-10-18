@@ -10,8 +10,8 @@ test_cases:
     BRONCOSPORT_TOT: 18
   response: 7E805621E1C0120
 - expected_values:
-    BRONCOSPORT_TOT: 79.9375
-  response: 7E805621E1C04FF
+    BRONCOSPORT_TOT: 47.9375
+  response: 7E805621E1C02FF
 - expected_values:
     BRONCOSPORT_TOT: 96
   response: 7E805621E1C0600
