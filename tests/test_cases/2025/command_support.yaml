@@ -248,6 +248,7 @@ unsupported_commands_by_ecu:
   - 7DF.221310
   - 7DF.22F45C
   "7E0":
+  - 7E0.220393
   - 7E0.2211A1
   - 7E0.7E8.22000D
   - 7E0.7E8.22030F:BRONCOSPORT_CL
