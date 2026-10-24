@@ -6,3 +6,6 @@ test_cases:
 - expected_values:
     BRONCOSPORT_BAT_QUIESCENT: 15
   response: 72E0562402507EE
+- expected_values:
+    BRONCOSPORT_BAT_QUIESCENT: 19
+  response: 72E0562402507F6
