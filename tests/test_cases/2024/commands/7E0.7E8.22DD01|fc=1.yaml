@@ -1,6 +1,9 @@
 command_id: 7E0.7E8.22DD01|fc=1
 test_cases:
 - expected_values:
+    BRONCOSPORT_ODO: 88897
+  response: "22DD01\n7E8 06 62 DD 01 01 5B 41 "
+- expected_values:
     BRONCOSPORT_ODO: 7566
   response: 7E80662DD01001D8E
 - expected_values:
@@ -13,5 +16,5 @@ test_cases:
     BRONCOSPORT_ODO: 70144
   response: 7E80662DD01011200
 - expected_values:
-    BRONCOSPORT_ODO: 88064
-  response: 7E80662DD01015800
+    BRONCOSPORT_ODO: 88897
+  response: 7E80662DD01015B41
