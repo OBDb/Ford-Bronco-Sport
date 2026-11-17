@@ -4,14 +4,14 @@ test_cases:
     BRONCOSPORT_BRK_FL_P: 0
   response: 76805622B0D0000
 - expected_values:
-    BRONCOSPORT_BRK_FL_P: 0
+    BRONCOSPORT_BRK_FL_P: 1
   response: 76805622B0D0001
 - expected_values:
-    BRONCOSPORT_BRK_FL_P: 0
+    BRONCOSPORT_BRK_FL_P: 3
   response: 76805622B0D0003
 - expected_values:
-    BRONCOSPORT_BRK_FL_P: 0
+    BRONCOSPORT_BRK_FL_P: 4
   response: 76805622B0D0004
 - expected_values:
-    BRONCOSPORT_BRK_FL_P: 0
+    BRONCOSPORT_BRK_FL_P: 9
   response: 76805622B0D0009
