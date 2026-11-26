@@ -7,8 +7,8 @@ test_cases:
     EQ_RAT: 1.02466
   response: "0144\n7E8 04 41 44 83 28 "
 - expected_values:
-    EQ_RAT: 0.67731
-  response: 7E804414456B2
+    EQ_RAT: 0.67078
+  response: 7E804414455DC
 - expected_values:
     EQ_RAT: 0.78903
   response: 7E804414464FF
